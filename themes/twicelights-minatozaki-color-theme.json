@@ -1,6 +1,11 @@
 {
 	"name": "TWICE Lights: Minatozaki",
 	"colors": {
+		"foreground": "#ffffff",
+		"focusBorder": "#8c79b4",
+		"progressBar.background": "#ff5fa2",
+		"selection.background": "#98005f80",
+		"scrollbar.shadow": "#000000",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
