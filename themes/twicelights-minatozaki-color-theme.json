@@ -44,6 +44,13 @@
 		"menu.selectionBackground": "#98005f",
 		"menu.separatorBackground": "#ffffff40",
 		"menu.border": "#352a45",
+		"button.background": "#fe8fbd",
+		"button.foreground": "#000000",
+		"button.hoverBackground": "#fdbcd8",
+		"button.secondaryBackground": "#fcc89b",
+		"button.secondaryForeground": "#000000",
+		"button.secondaryHoverBackground": "#fddec1",
+		"textLink.foreground": "#6fc3ff",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff"
 	},
