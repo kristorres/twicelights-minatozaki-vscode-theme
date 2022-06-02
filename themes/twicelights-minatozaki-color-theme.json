@@ -29,6 +29,11 @@
 		"listFilterWidget.outline": "#352a45",
 		"listFilterWidget.noMatchesOutline": "#ff3c3c",
 		"tree.indentGuidesStroke": "#ffffff80",
+		"statusBar.background": "#242b74",
+		"statusBar.debuggingBackground": "#4b2080",
+		"statusBar.noFolderBackground": "#a82b2b",
+		"statusBarItem.remoteBackground": "#0a575a",
+		"statusBarItem.hoverBackground": "#ffffff20",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff"
 	},
