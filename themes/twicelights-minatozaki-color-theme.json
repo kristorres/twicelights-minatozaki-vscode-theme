@@ -6,9 +6,13 @@
 		"progressBar.background": "#ff5fa2",
 		"selection.background": "#98005f80",
 		"scrollbar.shadow": "#000000",
+		"activityBar.background": "#160824",
+		"activityBar.foreground": "#ff5fa2",
+		"activityBar.inactiveForeground": "#ffffff80",
+		"activityBarBadge.background": "#fcc89b",
+		"activityBarBadge.foreground": "#000000",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
