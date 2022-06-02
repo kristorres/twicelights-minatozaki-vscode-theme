@@ -51,6 +51,11 @@
 		"button.secondaryForeground": "#000000",
 		"button.secondaryHoverBackground": "#fddec1",
 		"textLink.foreground": "#6fc3ff",
+		"input.background": "#352a45",
+		"input.placeholderForeground": "#ffffff80",
+		"inputOption.activeBackground": "#00000000",
+		"inputOption.activeForeground": "#ff5fa2",
+		"inputOption.hoverBackground": "#ffffff10",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff"
 	},
