@@ -75,6 +75,9 @@
 		"tab.activeBorder": "#ff5fa2",
 		"breadcrumb.background": "#160824",
 		"breadcrumb.foreground": "#fcc89b",
+		"scrollbarSlider.background": "#ff5fa280",
+		"scrollbarSlider.activeBackground": "#ff5fa280",
+		"scrollbarSlider.hoverBackground": "#ff5fa280",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff"
 	},
