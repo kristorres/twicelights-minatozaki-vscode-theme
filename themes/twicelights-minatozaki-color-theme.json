@@ -95,6 +95,13 @@
 		"notificationsInfoIcon.foreground": "#7fccff",
 		"notificationsWarningIcon.foreground": "#ffea74",
 		"notificationsErrorIcon.foreground": "#fa8f8f",
+		"gitDecoration.untrackedResourceForeground": "#37a6b8",
+		"gitDecoration.addedResourceForeground": "#37a6b8",
+		"gitDecoration.modifiedResourceForeground": "#5680c6",
+		"gitDecoration.renamedResourceForeground": "#37a6b8",
+		"gitDecoration.deletedResourceForeground": "#9a434d",
+		"gitDecoration.conflictingResourceForeground": "#ff403c",
+		"gitDecoration.ignoredResourceForeground": "#8b607d80",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff"
 	},
