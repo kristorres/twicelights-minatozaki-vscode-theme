@@ -139,7 +139,11 @@
 		"editorGroup.border": "#ffffff40",
 		"diffEditor.insertedTextBackground": "#13661940",
 		"diffEditor.removedTextBackground": "#ca090940",
-		"diffEditor.border": "#ffffff40"
+		"diffEditor.border": "#ffffff40",
+		"editorMarkerNavigation.background": "#261935",
+		"editorMarkerNavigationInfo.background": "#7fccff",
+		"editorMarkerNavigationWarning.background": "#ffea74",
+		"editorMarkerNavigationError.background": "#fa8f8f"
 	},
 	"tokenColors": [
 		{
