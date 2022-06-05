@@ -143,7 +143,13 @@
 		"editorMarkerNavigation.background": "#261935",
 		"editorMarkerNavigationInfo.background": "#7fccff",
 		"editorMarkerNavigationWarning.background": "#ffea74",
-		"editorMarkerNavigationError.background": "#fa8f8f"
+		"editorMarkerNavigationError.background": "#fa8f8f",
+		"merge.currentHeaderBackground": "#017972",
+		"merge.currentContentBackground": "#044d45",
+		"merge.incomingHeaderBackground": "#204098",
+		"merge.incomingContentBackground": "#052676",
+		"merge.commonHeaderBackground": "#415b68",
+		"merge.commonContentBackground": "#22333c"
 	},
 	"tokenColors": [
 		{
