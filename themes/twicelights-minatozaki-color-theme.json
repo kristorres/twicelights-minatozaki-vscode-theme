@@ -149,7 +149,18 @@
 		"merge.incomingHeaderBackground": "#204098",
 		"merge.incomingContentBackground": "#052676",
 		"merge.commonHeaderBackground": "#415b68",
-		"merge.commonContentBackground": "#22333c"
+		"merge.commonContentBackground": "#22333c",
+		"peekView.border": "#007acc",
+		"peekViewTitle.background": "#352a45",
+		"peekViewTitleLabel.foreground": "#ffffff",
+		"peekViewTitleDescription.foreground": "#ffffff80",
+		"peekViewEditor.background": "#001f33",
+		"peekViewEditor.matchHighlightBackground": "#ffae2880",
+		"peekViewEditor.matchHighlightBorder": "#ffae28",
+		"peekViewEditorGutter.background": "#001f33",
+		"peekViewResult.background": "#261935",
+		"peekViewResult.matchHighlightBackground": "#ffae2840",
+		"peekViewResult.selectionBackground": "#98005f"
 	},
 	"tokenColors": [
 		{
