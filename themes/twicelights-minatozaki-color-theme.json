@@ -184,9 +184,11 @@
 			"name": "Strings",
 			"scope": [
 				"string",
+				"string.regexp keyword",
 				"punctuation.definition.string"
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#9fdb5d"
 			}
 		},
@@ -197,6 +199,24 @@
 			],
 			"settings": {
 				"foreground": "#ff9951"
+			}
+		},
+		{
+			"name": "Regular Expressions",
+			"scope": [
+				"string.regexp"
+			],
+			"settings": {
+				"foreground": "#abffff"
+			}
+		},
+		{
+			"name": "Escape Characters",
+			"scope": [
+				"constant.character.escape"
+			],
+			"settings": {
+				"foreground": "#7ae3ff"
 			}
 		},
 		{
@@ -286,7 +306,6 @@
 				"support.variable.dom",
 				"support.other.namespace.php",
 				"support.other.namespace.use.php",
-				"variable.other.readwrite.alias",
 				"meta.import.qualifier",
 				"meta.use.php",
 				"markup.changed.git_gutter"
@@ -361,6 +380,17 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#8b607d"
+			}
+		},
+		{
+			"name": "Decorators",
+			"scope": [
+				"tag.decorator.js entity.name.tag.js",
+				"tag.decorator.js punctuation.definition.tag.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#6a9cff"
 			}
 		},
 		{
@@ -538,25 +568,7 @@
 			}
 		},
 		{
-			"name": "Regular Expressions",
-			"scope": [
-				"string.regexp"
-			],
-			"settings": {
-				"foreground": "#89DDFF"
-			}
-		},
-		{
-			"name": "Escape Characters",
-			"scope": [
-				"constant.character.escape"
-			],
-			"settings": {
-				"foreground": "#89DDFF"
-			}
-		},
-		{
-			"name": "URL",
+			"name": "URLs",
 			"scope": [
 				"*url*",
 				"*link*",
@@ -564,27 +576,6 @@
 			],
 			"settings": {
 				"fontStyle": "underline"
-			}
-		},
-		{
-			"name": "Decorators",
-			"scope": [
-				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "ES7 Bind Operator",
-			"scope": [
-				"source.js constant.other.object.key.js string.unquoted.label.js"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
 			}
 		},
 		{
