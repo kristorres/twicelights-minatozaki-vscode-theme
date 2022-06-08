@@ -2,7 +2,7 @@
   "name": "twicelights-minatozaki",
   "displayName": "TWICE Lights: Minatozaki",
   "description": "A Visual Studio Code theme for fans of Twice whose bias is Sana-chan. 💜",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "kristorres",
   "icon": "resources/twice-icon.png",
   "engines": {
