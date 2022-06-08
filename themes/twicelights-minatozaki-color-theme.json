@@ -95,9 +95,10 @@
 		"notificationsInfoIcon.foreground": "#7fccff",
 		"notificationsWarningIcon.foreground": "#ffea74",
 		"notificationsErrorIcon.foreground": "#fa8f8f",
-		"gitDecoration.untrackedResourceForeground": "#37a6b8",
+		"gitDecoration.untrackedResourceForeground": "#5680c6",
 		"gitDecoration.addedResourceForeground": "#37a6b8",
 		"gitDecoration.modifiedResourceForeground": "#5680c6",
+		"gitDecoration.stageModifiedResourceForeground": "#37a6b8",
 		"gitDecoration.renamedResourceForeground": "#37a6b8",
 		"gitDecoration.deletedResourceForeground": "#9a434d",
 		"gitDecoration.conflictingResourceForeground": "#ff403c",
@@ -491,6 +492,7 @@
 				"keyword.control.conditional.svelte",
 				"punctuation.definition.tag",
 				"punctuation.definition.keyword.svelte",
+				"support.class.component.js",
 				"support.class.component.svelte"
 			],
 			"settings": {
