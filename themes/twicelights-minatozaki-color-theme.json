@@ -710,7 +710,8 @@
 		{
 			"name": "Markdown — Link Anchors",
 			"scope": [
-				"markup.underline.link.markdown"
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown"
 			],
 			"settings": {
 				"foreground": "#6fc3ff"
