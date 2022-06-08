@@ -279,7 +279,6 @@
 		{
 			"name": "Classes and Support",
 			"scope": [
-				"entity.name",
 				"support.type",
 				"support.class",
 				"support.constant.json",
@@ -317,17 +316,6 @@
 			}
 		},
 		{
-			"name": "Tags",
-			"scope": [
-				"entity.name.tag",
-				"meta.tag.sgml",
-				"markup.deleted.git_gutter"
-			],
-			"settings": {
-				"foreground": "#ff6684"
-			}
-		},
-		{
 			"name": "Invalid",
 			"scope": [
 				"invalid",
@@ -344,8 +332,6 @@
 				"punctuation",
 				"punctuation.definition.tag",
 				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"punctuation.separator.inheritance.php",
 				"keyword.other.template",
@@ -468,6 +454,31 @@
 			}
 		},
 		{
+			"name": "Tags",
+			"scope": [
+				"entity.name.tag",
+				"keyword.control.svelte",
+				"keyword.control.conditional.svelte",
+				"punctuation.definition.tag",
+				"punctuation.definition.keyword.svelte",
+				"support.class.component.svelte"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#ff6684"
+			}
+		},
+		{
+			"name": "Attributes",
+			"scope": [
+				"entity.other.attribute-name",
+				"meta.directive.on.svelte"
+			],
+			"settings": {
+				"foreground": "#b88eff"
+			}
+		},
+		{
 			"name": "CSS Class and Support",
 			"scope": [
 				"source.css support.type.property-name",
@@ -479,26 +490,6 @@
 			],
 			"settings": {
 				"foreground": "#B2CCD6"
-			}
-		},
-		{
-			"name": "Attributes",
-			"scope": [
-				"entity.other.attribute-name"
-			],
-			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
-			"name": "HTML Attributes",
-			"scope": [
-				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
 			}
 		},
 		{
