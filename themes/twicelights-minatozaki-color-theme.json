@@ -479,7 +479,7 @@
 			}
 		},
 		{
-			"name": "CSS Class and Support",
+			"name": "CSS Properties",
 			"scope": [
 				"source.css support.type.property-name",
 				"source.sass support.type.property-name",
@@ -489,25 +489,25 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#6a9cff"
 			}
 		},
 		{
-			"name": "CSS Classes",
+			"name": "CSS Constants",
 			"scope": [
-				"entity.other.attribute-name.class"
+				"meta.property-value.css"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff9951"
 			}
 		},
 		{
-			"name": "CSS ID's",
+			"name": "CSS Selector Punctuation",
 			"scope": [
-				"source.sass keyword.control"
+				"punctuation.definition.entity.css"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#b88eff"
 			}
 		},
 		{
