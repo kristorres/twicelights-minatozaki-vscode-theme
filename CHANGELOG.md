@@ -6,6 +6,11 @@ be documented in this file.
 
 -----
 
+0.1.2
+-----
+
+  * Moved the border of an active tab to its top.
+
 0.1.1
 -----
 
