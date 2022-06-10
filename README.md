@@ -9,12 +9,13 @@ TWICE Lights: Minatozaki
     </a>
 </p>
 
-![Sana](resources/sana.gif)
+![Sana (Cheer Up)](resources/sana-cheer-up.gif)
+![Sana (The Feels)](resources/sana-the-feels.gif)
 
 A Visual Studio Code theme for fans of Twice whose bias is Sana-chan. 💜
 
 This is my customized theme that I use for my personal projects and at work.
-It makes heavy use of Sana-chan’s official color (pastel purple) and
+It makes heavy use of Sana-chan’s official color (purple) and
 [Twice’s official colors (neon magenta and apricot)](https://twitter.com/jypetwice/status/779329700501913600).
 The theme is also inspired by the
 [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
