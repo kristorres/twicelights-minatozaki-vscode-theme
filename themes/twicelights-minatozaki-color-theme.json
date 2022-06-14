@@ -169,6 +169,7 @@
 			"scope": [
 				"keyword",
 				"keyword.control",
+				"keyword.operator.new",
 				"storage.type",
 				"storage.modifier",
 				"constant.language.boolean",
@@ -280,7 +281,9 @@
 		},
 		{
             "name": "Property Calls",
-            "scope": "variable.other.object.property",
+            "scope": [
+				"variable.other.object.property"
+			],
             "settings": {
                 "foreground": "#c35cd4"
             }
@@ -312,7 +315,7 @@
 				"markup.changed.git_gutter"
 			],
 			"settings": {
-				"foreground": "#14d3f4"
+				"foreground": "#00cbf0"
 			}
 		},
 		{
@@ -323,7 +326,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#95d8f3",
+				"foreground": "#95d8f3"
 			}
 		},
 		{

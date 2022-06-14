@@ -6,6 +6,11 @@ be documented in this file.
 
 -----
 
+0.1.3
+-----
+
+  * Fixed the syntax highlight for the `new` keyword.
+
 0.1.2
 -----
 
