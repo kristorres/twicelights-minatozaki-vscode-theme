@@ -170,12 +170,16 @@
 				"keyword",
 				"keyword.control",
 				"keyword.operator.new",
+				"keyword.operator.expression.delete",
+				"keyword.operator.expression.instanceof",
+				"keyword.operator.expression.typeof",
 				"storage.type",
 				"storage.modifier",
 				"constant.language.boolean",
 				"constant.language.null",
 				"constant.language.undefined",
-				"constant.language.json"
+				"constant.language.json",
+				"source.tea constant.language"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -200,6 +204,7 @@
 				"constant.numeric"
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#ff9951"
 			}
 		},
@@ -225,9 +230,11 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"source.tea entity.name.tag"
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#b9c6fc"
 			}
 		},
@@ -246,6 +253,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#6a9cff"
 			}
 		},

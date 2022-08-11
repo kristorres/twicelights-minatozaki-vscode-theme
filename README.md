@@ -34,6 +34,11 @@ Supported Languages and Frameworks
   * JavaScript (and JSON)
     * React
     * Svelte
+      ([Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+      extension required)
+  * [TeaScript](https://github.com/axel669/teascript)
+    ([TeaScript Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=axel669.teascript-syntax)
+    extension required)
   * HTML
   * CSS
   * Markdown

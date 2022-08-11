@@ -6,6 +6,14 @@ be documented in this file.
 
 -----
 
+0.1.4
+-----
+
+  * Added support for [TeaScript](https://github.com/axel669/teascript).
+  * Fixed the syntax highlight for the `delete`, `instanceof`, and `typeof`
+    keywords.
+  * Set the banner color of the extension’s Marketplace page header.
+
 0.1.3
 -----
 
