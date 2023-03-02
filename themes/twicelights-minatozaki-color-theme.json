@@ -179,6 +179,9 @@
 				"constant.language.null",
 				"constant.language.undefined",
 				"constant.language.json",
+				"constant.language.python",
+				"variable.language.special.self.python",
+				"variable.parameter.function.language.special.self.python",
 				"source.tea constant.language"
 			],
 			"settings": {
@@ -191,7 +194,8 @@
 			"scope": [
 				"string",
 				"string.regexp keyword",
-				"punctuation.definition.string"
+				"punctuation.definition.string",
+				"storage.type.string.python"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -201,7 +205,8 @@
 		{
 			"name": "Numbers",
 			"scope": [
-				"constant.numeric"
+				"constant.numeric",
+				"storage.type.imaginary.number.python"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -300,9 +305,10 @@
 			"name": "Last Property Calls",
 			"scope": [
 				"variable.other.property",
-                "support.variable.property",
-                "support.variable.property.dom",
-                "meta.function-call variable.other.object.property"
+				"support.variable.property",
+				"support.variable.property.dom",
+				"meta.function-call variable.other.object.property",
+				"meta.member.access.python"
 			],
 			"settings": {
 				"foreground": "#40c3b7"
@@ -387,7 +393,9 @@
 			"name": "Documentation Comments",
 			"scope": [
 				"comment.block.documentation",
-				"comment.block.documentation punctuation.definition.comment"
+				"comment.block.documentation punctuation.definition.comment",
+				"string.quoted.docstring.multi.python",
+				"string.quoted.docstring.multi.python punctuation.definition.string"
 			],
 			"settings": {
 				"fontStyle": "italic",
