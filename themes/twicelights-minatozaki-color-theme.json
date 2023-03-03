@@ -235,6 +235,8 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"entity.name.variable.field.cs",
+				"entity.name.variable.property.cs",
 				"string constant.other.placeholder",
 				"source.tea entity.name.tag"
 			],
@@ -324,7 +326,10 @@
 				"support.variable.dom",
 				"support.other.namespace.php",
 				"support.other.namespace.use.php",
+				"entity.name.type.cs",
 				"entity.name.type.class.python",
+				"entity.name.type.class.cs",
+				"entity.name.type.namespace.cs",
 				"entity.other.inherited-class.python",
 				"meta.import.qualifier",
 				"meta.use.php",
